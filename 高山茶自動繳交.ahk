@@ -1,15 +1,15 @@
-﻿#SingleInstance Force
+#SingleInstance Force
 #MaxThreadsPerHotkey 2
 
 ; === 設定區間 ===
-ReloadKey := "+^Home"
-MacroKey := "+^Insert"
-LoopCount := "3"
-AcceptKey := "Numpad1"
-SubmitKey := "Numpad3"
-DownKey := "Numpad2"
-ConfirmKey := "Numpad0"
-CancelKey := "NumpadDot"
+ReloadKey := ""
+MacroKey := ""
+LoopCount := "1"
+AcceptKey := ""
+SubmitKey := ""
+DownKey := ""
+ConfirmKey := ""
+CancelKey := ""
 ; ==============
 
 ; 建立 GUI 介面
